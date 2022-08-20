@@ -2,7 +2,7 @@
 
 > Esse repositório são atribuições do Bootcamp Database Experience da plataforma **[DIO](https://dio.me)**.
 
-![Logo DIO](/assets/images/Dio_logo.png) ![Logo Database Experience](/assets/images/Database_Experience_logo.png)
+![Logo DIO](/assets/imagens/Dio_logo.png) ![Logo Database Experience](/assets/imagens/Database_Experience_logo.png)
 
 
 ## Como Instalar Git 
