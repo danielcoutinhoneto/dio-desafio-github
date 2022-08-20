@@ -5,7 +5,7 @@
 
 ## Como Instalar Git 
 
-Acesse o site a baixo e realize a leitura da documentação de como instalar o mesmo:
+Acesse o site abaixo e realize a leitura da documentação de como instalar o mesmo:
 
 - Documentação: https://git-scm.com/doc
 - Dowloard: https://git-scm.com/downloads
@@ -13,7 +13,7 @@ Acesse o site a baixo e realize a leitura da documentação de como instalar o m
 
 ## Como usar o Github
 
-Segue a baixo a documentação explicado como usar o mesmo:
+Segue abaixo a documentação explicado como usar o mesmo:
 
 - Documentação: https://docs.github.com/pt
 
