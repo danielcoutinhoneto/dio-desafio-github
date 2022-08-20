@@ -1,8 +1,7 @@
-# Dio desafio github
+# Repositório do desafio github
 
-Esse desafio da plataforma **[DIO](https://dio.me)** que é uma das atribuições do Bootcamp Database Experience.
 
-![Esse desafio da plataforma **[DIO](https://dio.me)** que é uma das atribuições do Bootcamp Database Experience!](/assets/imagens/Database_Experience.png "San Juan Mountains")
+Esse desafio são atribuições do Bootcamp Database Experience da plataforma **[DIO](https://dio.me)**.
 
 
 ## Heading level 2
